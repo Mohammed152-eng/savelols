@@ -1,0 +1,11 @@
+node_modules
+dist
+.git
+.env
+pdf*.pdf
+*-out.html
+ddg-test.html
+google-html.txt
+test-*.js
+test-*.cjs
+test-*.ts
